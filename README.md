@@ -5,13 +5,14 @@ https://github.com/learn22coding/noip_oi
 
 https://github.com/learn22coding/algorithm_contest_tedukuri
 
-https://github.com/learn22coding/awesome-competitive-programming
 
 https://github.com/learn22coding/NOIP
 
+https://github.com/learn22coding/awesome-competitive-programming
+
 https://github.com/learn22coding/OI-wiki
 
-https://github.com/learn22coding/shareOI
+:point_right:https://github.com/learn22coding/shareOI
 
 https://github.com/learn22coding/OI-Public-Library
 
