@@ -22,3 +22,5 @@ https://github.com/learn22coding/OI-Public-Library
 https://algorithms.tutorialhorizon.com/
 
 https://web.ntnu.edu.tw/~algo/
+
+https://codeforces.com/problemset/page/1?tags=constructive+algorithms
