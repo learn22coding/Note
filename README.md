@@ -24,3 +24,5 @@ https://algorithms.tutorialhorizon.com/
 https://web.ntnu.edu.tw/~algo/
 
 https://codeforces.com/problemset/page/1?tags=constructive+algorithms
+
+http://courses.csail.mit.edu/6.851/
