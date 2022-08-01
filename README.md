@@ -28,3 +28,5 @@ https://codeforces.com/problemset/page/1?tags=constructive+algorithms
 http://courses.csail.mit.edu/6.851/
 
 http://courses.csail.mit.edu/6.851/spring12/lectures/
+
+https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures
