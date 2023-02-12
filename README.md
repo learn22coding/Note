@@ -49,3 +49,6 @@ https://www.luogu.com.cn/paste/gye7bk2d
 
  a list of almost all useful blogs ever published on Codeforces
  https://codeforces.com/blog/entry/91363
+ 
+ Collection of little techniques
+ https://codeforces.com/blog/entry/100910
