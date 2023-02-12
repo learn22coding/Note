@@ -42,3 +42,6 @@ https://www.luogu.com.cn/blog/Sweetlemon/barrett-reduction
 
 压位 trie
 https://www.luogu.com.cn/blog/forever-captain/w-trie
+
+（基于 DIF-DIT 重构于 NOI 2022 后的）多项式基础全家桶
+https://www.luogu.com.cn/paste/gye7bk2d
