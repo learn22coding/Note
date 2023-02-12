@@ -39,3 +39,6 @@ https://codeforces.com/blog/entry/62393
 
 Barrett Reduction 乘法取模加速
 https://www.luogu.com.cn/blog/Sweetlemon/barrett-reduction
+
+压位 trie
+https://www.luogu.com.cn/blog/forever-captain/w-trie
