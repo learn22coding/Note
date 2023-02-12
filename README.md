@@ -36,3 +36,6 @@ https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_stru
 
 应对unordered_map被卡的方法
 https://codeforces.com/blog/entry/62393
+
+Barrett Reduction 乘法取模加速
+https://www.luogu.com.cn/blog/Sweetlemon/barrett-reduction
